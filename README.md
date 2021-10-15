@@ -1,1 +1,1 @@
-# Global-Environmental-Indicators-and-Global-Happiness
+# Global-Wellness
