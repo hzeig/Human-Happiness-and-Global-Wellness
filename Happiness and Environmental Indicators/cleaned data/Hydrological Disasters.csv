@@ -1,0 +1,340 @@
+CountryID,Country,Year,Disasters
+4,Afghanistan,Occurrence 1990-1999,17.0
+4,Afghanistan,Occurrence 2000-2009,45.0
+4,Afghanistan,Occurrence 2010-2019,46.0
+8,Albania,Occurrence 1990-1999,4.0
+8,Albania,Occurrence 2000-2009,4.0
+8,Albania,Occurrence 2010-2019,7.0
+12,Algeria,Occurrence 1990-1999,8.0
+12,Algeria,Occurrence 2000-2009,25.0
+12,Algeria,Occurrence 2010-2019,6.0
+32,Argentina,Occurrence 1990-1999,10.0
+32,Argentina,Occurrence 2000-2009,20.0
+32,Argentina,Occurrence 2010-2019,20.0
+51,Armenia,Occurrence 1990-1999,2.0
+51,Armenia,Occurrence 2000-2009,1.0
+51,Armenia,Occurrence 2010-2019,1.0
+36,Australia,Occurrence 1990-1999,14.0
+36,Australia,Occurrence 2000-2009,21.0
+36,Australia,Occurrence 2010-2019,12.0
+40,Austria,Occurrence 1990-1999,6.0
+40,Austria,Occurrence 2000-2009,7.0
+40,Austria,Occurrence 2010-2019,2.0
+31,Azerbaijan,Occurrence 1990-1999,4.0
+31,Azerbaijan,Occurrence 2000-2009,3.0
+31,Azerbaijan,Occurrence 2010-2019,1.0
+50,Bangladesh,Occurrence 1990-1999,28.0
+50,Bangladesh,Occurrence 2000-2009,23.0
+50,Bangladesh,Occurrence 2010-2019,20.0
+56,Belgium,Occurrence 1990-1999,4.0
+56,Belgium,Occurrence 2000-2009,6.0
+56,Belgium,Occurrence 2010-2019,3.0
+84,Belize,Occurrence 1990-1999,2.0
+84,Belize,Occurrence 2000-2009,1.0
+84,Belize,Occurrence 2010-2019,1.0
+204,Benin,Occurrence 1990-1999,7.0
+204,Benin,Occurrence 2000-2009,4.0
+204,Benin,Occurrence 2010-2019,4.0
+68,Bolivia (Plurinational State of),Occurrence 1990-1999,9.0
+68,Bolivia (Plurinational State of),Occurrence 2000-2009,13.0
+68,Bolivia (Plurinational State of),Occurrence 2010-2019,17.0
+72,Botswana,Occurrence 1990-1999,1.0
+72,Botswana,Occurrence 2000-2009,4.0
+72,Botswana,Occurrence 2010-2019,4.0
+76,Brazil,Occurrence 1990-1999,28.0
+76,Brazil,Occurrence 2000-2009,39.0
+76,Brazil,Occurrence 2010-2019,40.0
+100,Bulgaria,Occurrence 1990-1999,1.0
+100,Bulgaria,Occurrence 2000-2009,11.0
+100,Bulgaria,Occurrence 2010-2019,8.0
+854,Burkina Faso,Occurrence 1990-1999,2.0
+854,Burkina Faso,Occurrence 2000-2009,8.0
+854,Burkina Faso,Occurrence 2010-2019,6.0
+116,Cambodia,Occurrence 1990-1999,5.0
+116,Cambodia,Occurrence 2000-2009,8.0
+116,Cambodia,Occurrence 2010-2019,9.0
+120,Cameroon,Occurrence 1990-1999,3.0
+120,Cameroon,Occurrence 2000-2009,6.0
+120,Cameroon,Occurrence 2010-2019,8.0
+124,Canada,Occurrence 1990-1999,6.0
+124,Canada,Occurrence 2000-2009,18.0
+124,Canada,Occurrence 2010-2019,9.0
+140,Central African Republic,Occurrence 1990-1999,5.0
+140,Central African Republic,Occurrence 2000-2009,6.0
+140,Central African Republic,Occurrence 2010-2019,5.0
+148,Chad,Occurrence 1990-1999,4.0
+148,Chad,Occurrence 2000-2009,8.0
+148,Chad,Occurrence 2010-2019,5.0
+152,Chile,Occurrence 1990-1999,5.0
+152,Chile,Occurrence 2000-2009,14.0
+152,Chile,Occurrence 2010-2019,10.0
+156,China,Occurrence 1990-1999,58.0
+156,China,Occurrence 2000-2009,126.0
+156,China,Occurrence 2010-2019,124.0
+170,Colombia,Occurrence 1990-1999,25.0
+170,Colombia,Occurrence 2000-2009,32.0
+170,Colombia,Occurrence 2010-2019,34.0
+178,Congo,Occurrence 1990-1999,3.0
+178,Congo,Occurrence 2000-2009,4.0
+178,Congo,Occurrence 2010-2019,3.0
+188,Costa Rica,Occurrence 1990-1999,5.0
+188,Costa Rica,Occurrence 2000-2009,14.0
+188,Costa Rica,Occurrence 2010-2019,6.0
+192,Cuba,Occurrence 1990-1999,10.0
+192,Cuba,Occurrence 2000-2009,6.0
+192,Cuba,Occurrence 2010-2019,3.0
+203,Czechia,Occurrence 1990-1999,3.0
+203,Czechia,Occurrence 2000-2009,6.0
+203,Czechia,Occurrence 2010-2019,4.0
+384,Côte d’Ivoire,Occurrence 1990-1999,1.0
+384,Côte d’Ivoire,Occurrence 2000-2009,3.0
+384,Côte d’Ivoire,Occurrence 2010-2019,8.0
+408,Democratic People's Republic of Korea,Occurrence 1990-1999,6.0
+408,Democratic People's Republic of Korea,Occurrence 2000-2009,9.0
+408,Democratic People's Republic of Korea,Occurrence 2010-2019,10.0
+180,Democratic Republic of the Congo,Occurrence 1990-1999,4.0
+180,Democratic Republic of the Congo,Occurrence 2000-2009,12.0
+180,Democratic Republic of the Congo,Occurrence 2010-2019,20.0
+262,Djibouti,Occurrence 1990-1999,2.0
+262,Djibouti,Occurrence 2000-2009,1.0
+262,Djibouti,Occurrence 2010-2019,2.0
+214,Dominican Republic,Occurrence 1990-1999,4.0
+214,Dominican Republic,Occurrence 2000-2009,9.0
+214,Dominican Republic,Occurrence 2010-2019,12.0
+218,Ecuador,Occurrence 1990-1999,6.0
+218,Ecuador,Occurrence 2000-2009,11.0
+218,Ecuador,Occurrence 2010-2019,12.0
+818,Egypt,Occurrence 1990-1999,5.0
+818,Egypt,Occurrence 2000-2009,2.0
+818,Egypt,Occurrence 2010-2019,2.0
+222,El Salvador,Occurrence 1990-1999,4.0
+222,El Salvador,Occurrence 2000-2009,8.0
+222,El Salvador,Occurrence 2010-2019,3.0
+231,Ethiopia,Occurrence 1990-1999,16.0
+231,Ethiopia,Occurrence 2000-2009,24.0
+231,Ethiopia,Occurrence 2010-2019,11.0
+250,France,Occurrence 1990-1999,13.0
+250,France,Occurrence 2000-2009,18.0
+250,France,Occurrence 2010-2019,12.0
+270,Gambia,Occurrence 1990-1999,2.0
+270,Gambia,Occurrence 2000-2009,4.0
+270,Gambia,Occurrence 2010-2019,3.0
+268,Georgia,Occurrence 1990-1999,4.0
+268,Georgia,Occurrence 2000-2009,4.0
+268,Georgia,Occurrence 2010-2019,8.0
+276,Germany,Occurrence 1990-1999,7.0
+276,Germany,Occurrence 2000-2009,6.0
+276,Germany,Occurrence 2010-2019,5.0
+288,Ghana,Occurrence 1990-1999,3.0
+288,Ghana,Occurrence 2000-2009,7.0
+288,Ghana,Occurrence 2010-2019,11.0
+300,Greece,Occurrence 1990-1999,3.0
+300,Greece,Occurrence 2000-2009,14.0
+300,Greece,Occurrence 2010-2019,7.0
+320,Guatemala,Occurrence 1990-1999,4.0
+320,Guatemala,Occurrence 2000-2009,14.0
+320,Guatemala,Occurrence 2010-2019,18.0
+324,Guinea,Occurrence 1990-1999,1.0
+324,Guinea,Occurrence 2000-2009,5.0
+324,Guinea,Occurrence 2010-2019,7.0
+328,Guyana,Occurrence 1990-1999,1.0
+328,Guyana,Occurrence 2000-2009,3.0
+328,Guyana,Occurrence 2010-2019,2.0
+332,Haiti,Occurrence 1990-1999,4.0
+332,Haiti,Occurrence 2000-2009,20.0
+332,Haiti,Occurrence 2010-2019,20.0
+340,Honduras,Occurrence 1990-1999,8.0
+340,Honduras,Occurrence 2000-2009,10.0
+340,Honduras,Occurrence 2010-2019,11.0
+348,Hungary,Occurrence 1990-1999,4.0
+348,Hungary,Occurrence 2000-2009,7.0
+348,Hungary,Occurrence 2010-2019,4.0
+356,India,Occurrence 1990-1999,58.0
+356,India,Occurrence 2000-2009,109.0
+356,India,Occurrence 2010-2019,82.0
+360,Indonesia,Occurrence 1990-1999,30.0
+360,Indonesia,Occurrence 2000-2009,86.0
+360,Indonesia,Occurrence 2010-2019,91.0
+364,Iran (Islamic Republic of),Occurrence 1990-1999,30.0
+364,Iran (Islamic Republic of),Occurrence 2000-2009,22.0
+364,Iran (Islamic Republic of),Occurrence 2010-2019,12.0
+372,Ireland,Occurrence 1990-1999,1.0
+372,Ireland,Occurrence 2000-2009,2.0
+372,Ireland,Occurrence 2010-2019,2.0
+380,Italy,Occurrence 1990-1999,8.0
+380,Italy,Occurrence 2000-2009,16.0
+380,Italy,Occurrence 2010-2019,17.0
+392,Japan,Occurrence 1990-1999,11.0
+392,Japan,Occurrence 2000-2009,12.0
+392,Japan,Occurrence 2010-2019,12.0
+398,Kazakhstan,Occurrence 1990-1999,1.0
+398,Kazakhstan,Occurrence 2000-2009,5.0
+398,Kazakhstan,Occurrence 2010-2019,8.0
+404,Kenya,Occurrence 1990-1999,4.0
+404,Kenya,Occurrence 2000-2009,30.0
+404,Kenya,Occurrence 2010-2019,22.0
+417,Kyrgyzstan,Occurrence 1990-1999,3.0
+417,Kyrgyzstan,Occurrence 2000-2009,7.0
+417,Kyrgyzstan,Occurrence 2010-2019,3.0
+418,Lao People's Democratic Republic,Occurrence 1990-1999,6.0
+418,Lao People's Democratic Republic,Occurrence 2000-2009,5.0
+418,Lao People's Democratic Republic,Occurrence 2010-2019,10.0
+430,Liberia,Occurrence 1990-1999,1.0
+430,Liberia,Occurrence 2000-2009,3.0
+430,Liberia,Occurrence 2010-2019,2.0
+450,Madagascar,Occurrence 1990-1999,1.0
+450,Madagascar,Occurrence 2000-2009,4.0
+450,Madagascar,Occurrence 2010-2019,1.0
+454,Malawi,Occurrence 1990-1999,6.0
+454,Malawi,Occurrence 2000-2009,15.0
+454,Malawi,Occurrence 2010-2019,16.0
+458,Malaysia,Occurrence 1990-1999,6.0
+458,Malaysia,Occurrence 2000-2009,24.0
+458,Malaysia,Occurrence 2010-2019,16.0
+466,Mali,Occurrence 1990-1999,3.0
+466,Mali,Occurrence 2000-2009,11.0
+466,Mali,Occurrence 2010-2019,10.0
+478,Mauritania,Occurrence 1990-1999,3.0
+478,Mauritania,Occurrence 2000-2009,9.0
+478,Mauritania,Occurrence 2010-2019,3.0
+484,Mexico,Occurrence 1990-1999,14.0
+484,Mexico,Occurrence 2000-2009,28.0
+484,Mexico,Occurrence 2010-2019,19.0
+496,Mongolia,Occurrence 1990-1999,2.0
+496,Mongolia,Occurrence 2000-2009,2.0
+496,Mongolia,Occurrence 2010-2019,3.0
+504,Morocco,Occurrence 1990-1999,5.0
+504,Morocco,Occurrence 2000-2009,12.0
+504,Morocco,Occurrence 2010-2019,5.0
+508,Mozambique,Occurrence 1990-1999,3.0
+508,Mozambique,Occurrence 2000-2009,15.0
+508,Mozambique,Occurrence 2010-2019,14.0
+104,Myanmar,Occurrence 1990-1999,5.0
+104,Myanmar,Occurrence 2000-2009,9.0
+104,Myanmar,Occurrence 2010-2019,23.0
+524,Nepal,Occurrence 1990-1999,13.0
+524,Nepal,Occurrence 2000-2009,17.0
+524,Nepal,Occurrence 2010-2019,24.0
+554,New Zealand,Occurrence 1990-1999,7.0
+554,New Zealand,Occurrence 2000-2009,6.0
+554,New Zealand,Occurrence 2010-2019,5.0
+558,Nicaragua,Occurrence 1990-1999,2.0
+558,Nicaragua,Occurrence 2000-2009,8.0
+558,Nicaragua,Occurrence 2010-2019,9.0
+562,Niger,Occurrence 1990-1999,4.0
+562,Niger,Occurrence 2000-2009,7.0
+562,Niger,Occurrence 2010-2019,16.0
+566,Nigeria,Occurrence 1990-1999,6.0
+566,Nigeria,Occurrence 2000-2009,28.0
+566,Nigeria,Occurrence 2010-2019,17.0
+807,North Macedonia,Occurrence 1990-1999,1.0
+807,North Macedonia,Occurrence 2000-2009,6.0
+807,North Macedonia,Occurrence 2010-2019,4.0
+586,Pakistan,Occurrence 1990-1999,20.0
+586,Pakistan,Occurrence 2000-2009,41.0
+586,Pakistan,Occurrence 2010-2019,40.0
+591,Panama,Occurrence 1990-1999,4.0
+591,Panama,Occurrence 2000-2009,15.0
+591,Panama,Occurrence 2010-2019,10.0
+598,Papua New Guinea,Occurrence 1990-1999,5.0
+598,Papua New Guinea,Occurrence 2000-2009,12.0
+598,Papua New Guinea,Occurrence 2010-2019,6.0
+600,Paraguay,Occurrence 1990-1999,6.0
+600,Paraguay,Occurrence 2000-2009,2.0
+600,Paraguay,Occurrence 2010-2019,11.0
+604,Peru,Occurrence 1990-1999,15.0
+604,Peru,Occurrence 2000-2009,21.0
+604,Peru,Occurrence 2010-2019,21.0
+608,Philippines,Occurrence 1990-1999,37.0
+608,Philippines,Occurrence 2000-2009,51.0
+608,Philippines,Occurrence 2010-2019,57.0
+616,Poland,Occurrence 1990-1999,2.0
+616,Poland,Occurrence 2000-2009,5.0
+616,Poland,Occurrence 2010-2019,3.0
+620,Portugal,Occurrence 1990-1999,2.0
+620,Portugal,Occurrence 2000-2009,5.0
+620,Portugal,Occurrence 2010-2019,2.0
+630,Puerto Rico,Occurrence 1990-1999,1.0
+630,Puerto Rico,Occurrence 2000-2009,3.0
+630,Puerto Rico,Occurrence 2010-2019,2.0
+410,Republic of Korea,Occurrence 1990-1999,10.0
+410,Republic of Korea,Occurrence 2000-2009,11.0
+410,Republic of Korea,Occurrence 2010-2019,4.0
+498,Republic of Moldova,Occurrence 1990-1999,3.0
+498,Republic of Moldova,Occurrence 2000-2009,3.0
+498,Republic of Moldova,Occurrence 2010-2019,1.0
+642,Romania,Occurrence 1990-1999,8.0
+642,Romania,Occurrence 2000-2009,30.0
+642,Romania,Occurrence 2010-2019,10.0
+643,Russian Federation,Occurrence 1990-1999,21.0
+643,Russian Federation,Occurrence 2000-2009,32.0
+643,Russian Federation,Occurrence 2010-2019,21.0
+686,Senegal,Occurrence 1990-1999,3.0
+686,Senegal,Occurrence 2000-2009,7.0
+686,Senegal,Occurrence 2010-2019,7.0
+694,Sierra Leone,Occurrence 1990-1999,1.0
+694,Sierra Leone,Occurrence 2000-2009,4.0
+694,Sierra Leone,Occurrence 2010-2019,6.0
+703,Slovakia,Occurrence 1990-1999,3.0
+703,Slovakia,Occurrence 2000-2009,6.0
+703,Slovakia,Occurrence 2010-2019,3.0
+706,Somalia,Occurrence 1990-1999,5.0
+706,Somalia,Occurrence 2000-2009,19.0
+706,Somalia,Occurrence 2010-2019,13.0
+710,South Africa,Occurrence 1990-1999,9.0
+710,South Africa,Occurrence 2000-2009,14.0
+710,South Africa,Occurrence 2010-2019,10.0
+724,Spain,Occurrence 1990-1999,4.0
+724,Spain,Occurrence 2000-2009,8.0
+724,Spain,Occurrence 2010-2019,10.0
+144,Sri Lanka,Occurrence 1990-1999,17.0
+144,Sri Lanka,Occurrence 2000-2009,17.0
+144,Sri Lanka,Occurrence 2010-2019,26.0
+729,Sudan,Occurrence 1990-1999,11.0
+729,Sudan,Occurrence 2000-2009,10.0
+729,Sudan,Occurrence 2010-2019,13.0
+762,Tajikistan,Occurrence 1990-1999,11.0
+762,Tajikistan,Occurrence 2000-2009,19.0
+762,Tajikistan,Occurrence 2010-2019,14.0
+764,Thailand,Occurrence 1990-1999,18.0
+764,Thailand,Occurrence 2000-2009,34.0
+764,Thailand,Occurrence 2010-2019,19.0
+768,Togo,Occurrence 1990-1999,5.0
+768,Togo,Occurrence 2000-2009,4.0
+768,Togo,Occurrence 2010-2019,3.0
+780,Trinidad and Tobago,Occurrence 1990-1999,2.0
+780,Trinidad and Tobago,Occurrence 2000-2009,1.0
+780,Trinidad and Tobago,Occurrence 2010-2019,1.0
+788,Tunisia,Occurrence 1990-1999,1.0
+788,Tunisia,Occurrence 2000-2009,5.0
+788,Tunisia,Occurrence 2010-2019,2.0
+792,Turkey,Occurrence 1990-1999,10.0
+792,Turkey,Occurrence 2000-2009,22.0
+792,Turkey,Occurrence 2010-2019,8.0
+800,Uganda,Occurrence 1990-1999,3.0
+800,Uganda,Occurrence 2000-2009,14.0
+800,Uganda,Occurrence 2010-2019,16.0
+804,Ukraine,Occurrence 1990-1999,6.0
+804,Ukraine,Occurrence 2000-2009,6.0
+804,Ukraine,Occurrence 2010-2019,3.0
+826,United Kingdom of Great Britain and Northern Ireland,Occurrence 1990-1999,8.0
+826,United Kingdom of Great Britain and Northern Ireland,Occurrence 2000-2009,15.0
+826,United Kingdom of Great Britain and Northern Ireland,Occurrence 2010-2019,10.0
+834,United Republic of Tanzania,Occurrence 1990-1999,11.0
+834,United Republic of Tanzania,Occurrence 2000-2009,12.0
+834,United Republic of Tanzania,Occurrence 2010-2019,16.0
+840,United States of America,Occurrence 1990-1999,52.0
+840,United States of America,Occurrence 2000-2009,57.0
+840,United States of America,Occurrence 2010-2019,40.0
+858,Uruguay,Occurrence 1990-1999,3.0
+858,Uruguay,Occurrence 2000-2009,7.0
+858,Uruguay,Occurrence 2010-2019,8.0
+862,Venezuela (Bolivarian Republic of),Occurrence 1990-1999,8.0
+862,Venezuela (Bolivarian Republic of),Occurrence 2000-2009,12.0
+862,Venezuela (Bolivarian Republic of),Occurrence 2010-2019,10.0
+704,Viet Nam,Occurrence 1990-1999,17.0
+704,Viet Nam,Occurrence 2000-2009,41.0
+704,Viet Nam,Occurrence 2010-2019,32.0
+887,Yemen,Occurrence 1990-1999,7.0
+887,Yemen,Occurrence 2000-2009,16.0
+887,Yemen,Occurrence 2010-2019,9.0
